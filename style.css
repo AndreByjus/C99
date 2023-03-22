@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(182, 244, 255);
+}
+
+h1 
+{
+    font-family: serif;
+    font-style: normal ;
+    font-weight: 100;
+}
+
+img 
+{
+    width: 500;
+}
+
+img:hover{
+    border-radius: 140px;
+    width: 550;
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#start
+{
+    background-color: rgb(87, 87, 255);
+    height: 50;
+    width: 80;
+    border-style: double;
+    color: black;
+}
+
+#rodape
+{
+    scale: 100px;
+    height: 20px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(40, 211, 211);
+}
